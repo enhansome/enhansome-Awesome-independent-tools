@@ -65,10 +65,10 @@
 
 ### Web 开发框架或模板
 
-* [umami](https://github.com/umami-software/umami) ⭐ 38,252 | 🐛 101 | 🌐 TypeScript | 📅 2026-08-18 - 简单、快速、注重隐私的 Google Analytics 替代方案
-* [Taxonomy](https://github.com/shadcn-ui/taxonomy) ⭐ 19,282 | 🐛 219 | 🌐 TypeScript | 📅 2026-04-20 - 基于 Next.js 13 和 React 18 构建的开源 Web 应用实验项目
-* [Opensaas](https://github.com/wasp-lang/open-saas/) ⭐ 15,515 | 🐛 103 | 🌐 MDX | 📅 2026-08-06 - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
-* [NotionNext](https://github.com/tangly1024/NotionNext) ⭐ 11,761 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-19 - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
+* [umami](https://github.com/umami-software/umami) ⭐ 38,278 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-20 - 简单、快速、注重隐私的 Google Analytics 替代方案
+* [Taxonomy](https://github.com/shadcn-ui/taxonomy) ⭐ 19,283 | 🐛 219 | 🌐 TypeScript | 📅 2026-04-20 - 基于 Next.js 13 和 React 18 构建的开源 Web 应用实验项目
+* [Opensaas](https://github.com/wasp-lang/open-saas/) ⭐ 15,528 | 🐛 103 | 🌐 MDX | 📅 2026-08-06 - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
+* [NotionNext](https://github.com/tangly1024/NotionNext) ⭐ 11,763 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-20 - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
 * [lucky-canvas 抽奖插件](https://github.com/buuing/lucky-canvas) ⭐ 8,750 | 🐛 193 | 🌐 TypeScript | 📅 2026-07-30 - 基于 TS + Canvas 抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等
 * [mp-html](https://github.com/jin-yufeng/mp-html) ⭐ 3,735 | 🐛 67 | 🌐 JavaScript | 📅 2026-04-19 - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
 * [unibest](https://github.com/codercup/unibest) ⭐ 2,855 | 🐛 93 | 🌐 TypeScript | 📅 2026-03-28 - unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板
@@ -85,11 +85,11 @@
 
 ### Chrome 插件开发
 
-* [extension.js](https://github.com/extension-js/extension.js) ⭐ 5,064 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - 一个无需配置、跨浏览器的扩展开发工具，支持 TypeScript、WebAssembly、React 和现代 JavaScript，专为实用性和快速原型设计而设计
+* [extension.js](https://github.com/extension-js/extension.js) ⭐ 5,064 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-20 - 一个无需配置、跨浏览器的扩展开发工具，支持 TypeScript、WebAssembly、React 和现代 JavaScript，专为实用性和快速原型设计而设计
 * [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) ⚠️ Archived - 一个用于创建 Chrome 扩展程序的模板，使用 React 和 TypeScript 构建。重点在于利用 Vite(Rollup)和 Turborepo 提高构建速度和开发体验
 * [crxjs](https://github.com/crxjs/chrome-extension-tools) ⭐ 4,156 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-14 - 是一个旨在简化 Chrome 扩展程序捆绑过程的工具库
 * [vitesse-webext](https://github.com/antfu-collective/vitesse-webext) ⭐ 3,377 | 🐛 26 | 🌐 TypeScript | 📅 2026-03-03 - 一个为 WebExtension 提供快速开发基础的 Vite 启动模板，支持 Vue 3、TypeScript、UnoCSS 等现代前端技术
-* [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) ⭐ 2,821 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05
+* [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) ⭐ 2,820 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05
 * [wxt.dev](https://wxt.dev/) - 支持 Vue、Svelte 等多种前端框架
 * [Responsive Viewer](https://responsiveviewer.org/) - chrome 插件。可以一键验证多端响应式布局状态
 * [Chrome Stats](https://chrome-stats.com/) - 挖掘 Chrome 扩展需求神器
@@ -97,10 +97,10 @@
 
 ### 前端开发
 
-* [apprise](https://github.com/caronc/apprise) ⭐ 17,070 | 🐛 29 | 🌐 Python | 📅 2026-08-12 - 适用于几乎所有平台的推送通知
-* [Pagefind](https://github.com/CloudCannon/pagefind) ⭐ 5,415 | 🐛 114 | 🌐 Rust | 📅 2026-08-16 - 博客/文档的静态搜索
-* [toprank](https://github.com/nowork-studio/toprank) ⭐ 3,373 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-14 - 开源（MIT）Claude Code 插件，提供 9 个 SEO 和 Google Ads 技能。连接 Google Search Console、PageSpeed Insights、Google Ads API，自动重写 meta 标签、生成 JSON-LD 结构化数据，并将修改直接推送到 WordPress/Strapi/Contentful/Ghost。107 stars。
-* [Mind Elixir](https://github.com/SSShooter/mind-elixir-core) ⭐ 3,134 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-13 - 前端轻松接入思维导图，无框架限制
+* [apprise](https://github.com/caronc/apprise) ⭐ 17,080 | 🐛 27 | 🌐 Python | 📅 2026-08-12 - 适用于几乎所有平台的推送通知
+* [Pagefind](https://github.com/CloudCannon/pagefind) ⭐ 5,417 | 🐛 113 | 🌐 Rust | 📅 2026-08-20 - 博客/文档的静态搜索
+* [toprank](https://github.com/nowork-studio/toprank) ⭐ 3,379 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-14 - 开源（MIT）Claude Code 插件，提供 9 个 SEO 和 Google Ads 技能。连接 Google Search Console、PageSpeed Insights、Google Ads API，自动重写 meta 标签、生成 JSON-LD 结构化数据，并将修改直接推送到 WordPress/Strapi/Contentful/Ghost。107 stars。
+* [Mind Elixir](https://github.com/SSShooter/mind-elixir-core) ⭐ 3,137 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-13 - 前端轻松接入思维导图，无框架限制
 * [Next.js](https://nextjs.org/) - 基于 React
 * [Nuxt](https://nuxt.com/) - 基于 Vue
 * [Remix](https://remix.run/) - 基于 React 的全栈框架
@@ -122,8 +122,8 @@
 
 ### 后端开发
 
-* [supabase](https://github.com/supabase/supabase) ⭐ 108,157 | 🐛 1,281 | 🌐 TypeScript | 📅 2026-08-19 - 基于开源的后端开发解决方案平台
-* [appwrite](https://github.com/appwrite/appwrite) ⭐ 57,056 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-08-19 - 用于开发 Web 和移动应用程序的后端平台
+* [supabase](https://github.com/supabase/supabase) ⭐ 108,188 | 🐛 1,237 | 🌐 TypeScript | 📅 2026-08-20 - 基于开源的后端开发解决方案平台
+* [appwrite](https://github.com/appwrite/appwrite) ⭐ 57,064 | 🐛 1,004 | 🌐 TypeScript | 📅 2026-08-20 - 用于开发 Web 和移动应用程序的后端平台
 * [notify](https://github.com/nikoksr/notify) ⭐ 3,756 | 🐛 47 | 🌐 Go | 📅 2026-08-17 - Go 语言，用于向各种消息服务发送通知
 * [Nest.js](https://docs.nestjs.com/) - 基于 Node.js
 * [Midway.js](https://midwayjs.org/) - 基于 Node.js
@@ -145,12 +145,12 @@
 ### 对象关系映射
 
 * [Prisma](https://prisma.io/)
-* [TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,632 | 🐛 620 | 🌐 TypeScript | 📅 2026-08-13
+* [TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,631 | 🐛 621 | 🌐 TypeScript | 📅 2026-08-13
 * [Sequelize](https://sequelize.org/) - 最老牌的 Node.js ORM 库，支持多种数据库
 
 ### 样式与 UI 框架
 
-* [canvas-confetti](https://github.com/catdad/canvas-confetti) ⭐ 12,705 | 🐛 41 | 🌐 JavaScript | 📅 2025-10-25 - 只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。
+* [canvas-confetti](https://github.com/catdad/canvas-confetti) ⭐ 12,707 | 🐛 41 | 🌐 JavaScript | 📅 2025-10-25 - 只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。
 * [一个专门处理数字动画的 React 组件](https://github.com/barvian/number-flow) ⭐ 7,643 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-18
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Shadcn/ui](https://ui.shadcn.com/)
@@ -177,8 +177,8 @@
 
 ### 原型设计
 
-* [penpot](https://github.com/penpot/penpot) ⭐ 58,877 | 🐛 753 | 🌐 Clojure | 📅 2026-08-19 - 可平替 Figma 的开源免费工具
-* [OpenUI](https://github.com/wandb/openui) ⭐ 22,510 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-14 - 与 v0.dev 相似，但是是基于 Prompt 构建 UI 组件
+* [penpot](https://github.com/penpot/penpot) ⭐ 58,913 | 🐛 748 | 🌐 Clojure | 📅 2026-08-20 - 可平替 Figma 的开源免费工具
+* [OpenUI](https://github.com/wandb/openui) ⭐ 22,511 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-14 - 与 v0.dev 相似，但是是基于 Prompt 构建 UI 组件
 * [墨刀](https://modao.cc/) - 国内产品原型设计工具
 * [Figma](https://www.figma.com/) - 国外产品原型设计工具
 * [Sketch](https://www.sketch.com/) - 国外产品原型设计工具
@@ -196,7 +196,7 @@
 * [Auth.js](https://authjs.dev/) - 支持 Nuxt, SolidStart, Astro 等
 * [Next Auth.js](https://next-auth.js.org/) - 支持 Next.js
 * [Clerk](https://clerk.com/) - 免费用户有 5000 MAU
-* [NextAuth](https://github.com/nextauthjs/next-auth) ⭐ 28,332 | 🐛 596 | 🌐 TypeScript | 📅 2026-07-22 - 用户系统, 网络身份验证
+* [NextAuth](https://github.com/nextauthjs/next-auth) ⭐ 28,333 | 🐛 596 | 🌐 TypeScript | 📅 2026-07-22 - 用户系统, 网络身份验证
 
 ### 支付集成
 
@@ -227,7 +227,7 @@
 * [Plausible](https://plausible.io/) - 直观，轻量，开源
 * [openpanel](https://openpanel.dev/) - 缝合了 Mixpanel 和 Plausible 优点,访问分析+实时数据+可视化统计+用户行为洞察
 * [wappalyzer](https://www.wappalyzer.com/) - Wappalyzer 是一个网站技术分析工具，可以识别网站使用的技术栈，包括 CMS、电子商务平台、支付处理器等
-* [netdata](https://github.com/netdata/netdata) ⭐ 80,228 | 🐛 398 | 🌐 Go | 📅 2026-08-19 - 实时监控服务器、容器和应用程序
+* [netdata](https://github.com/netdata/netdata) ⭐ 80,238 | 🐛 396 | 🌐 Go | 📅 2026-08-20 - 实时监控服务器、容器和应用程序
 * [ahrefs](https://ahrefs.com/) - 用于查询关键词难度、查看反链统计
 * [Google Search Console](https://search.google.com/search-console/about) - Google Search Console 是一个强大的免费工具，帮助站长优化网站在 Google 搜索中的表现
 * [Microsoft Clarity](https://clarity.microsoft.com/) - 一款优秀的网站用户体验分析工具、流量分析工具
@@ -242,8 +242,8 @@
 
 ### 部署与托管
 
-* [Sink](https://github.com/ccbikai/Sink) ⭐ 7,031 | 🐛 14 | 🌐 Vue | 📅 2026-08-09 - 一个简单/快速/安全的链接缩短器，带有分析功能，100% 运行在 Cloudflare 上。
-* [inngest](https://github.com/inngest/inngest) ⭐ 5,740 | 🐛 228 | 🌐 Go | 📅 2026-08-19 - Inngest 是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
+* [Sink](https://github.com/ccbikai/Sink) ⭐ 7,030 | 🐛 14 | 🌐 Vue | 📅 2026-08-09 - 一个简单/快速/安全的链接缩短器，带有分析功能，100% 运行在 Cloudflare 上。
+* [inngest](https://github.com/inngest/inngest) ⭐ 5,747 | 🐛 224 | 🌐 Go | 📅 2026-08-20 - Inngest 是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
 * [FlyPloy](https://flyploy.com/en) - (免费/付费) 简单强大的现代化应用部署平台，支持 Docker 和 Kubernetes，助力开发者实现全球一键快速部署。
 * [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
 * [阿里云](https://www.aliyun.com/minisite/goods) - 国内云
@@ -256,7 +256,7 @@
 
 ### 网站管理
 
-* [acme.sh](https://github.com/acmesh-official/acme.sh) ⭐ 47,486 | 🐛 94 | 🌐 Shell | 📅 2026-08-17 - 免费 SSL 证书一键生成
+* [acme.sh](https://github.com/acmesh-official/acme.sh) ⭐ 47,495 | 🐛 92 | 🌐 Shell | 📅 2026-08-20 - 免费 SSL 证书一键生成
 * [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-26
 * [Certimate](https://github.com/usual2970/certimate) ⭐ 16 | 🐛 0 | 📅 2025-06-22 - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
 * [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-18 - 开源 SSL 证书到期监控工具，支持多域名监控、到期提醒
@@ -295,7 +295,7 @@
 * [Notion](https://notion.so)
 * [Astro Starlight](https://starlight.astro.build/) - Astro 框架的文档主题站点
 * [mintlify](https://mintlify.com/) - 轻松获取产品文档
-* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 65,990 | 🐛 431 | 🌐 TypeScript | 📅 2026-08-13 - 易于维护的开源文档网站
+* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,010 | 🐛 431 | 🌐 TypeScript | 📅 2026-08-13 - 易于维护的开源文档网站
 
 ### 协议生成
 
@@ -329,8 +329,8 @@
 
 ### 图片视频处理工具
 
-* [Upscayl Upscayl](https://github.com/upscayl/upscayl) ⭐ 48,605 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-04 - 免费开源 AI 图像放大器
-* [MediaGo](https://github.com/caorushizi/mediago) ⭐ 9,115 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-19 - m3u8 视频在线提取工具
+* [Upscayl Upscayl](https://github.com/upscayl/upscayl) ⭐ 48,620 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-20 - 免费开源 AI 图像放大器
+* [MediaGo](https://github.com/caorushizi/mediago) ⭐ 9,115 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-20 - m3u8 视频在线提取工具
 * [Tinypng](https://tinypng.com/) - 图片压缩工具
 * [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
 * [在线 AI 抠图工具](https://removebg.one/)
@@ -340,8 +340,8 @@
 
 ### 屏幕录制
 
-* [screenity](https://github.com/alyssaxuu/screenity) ⭐ 18,487 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-18 - 一款开源的屏幕录制和标注工具，提供隐私保护且无任何使用限制
-* [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ⭐ 8,586 | 🐛 176 | 🌐 Swift | 📅 2025-06-11 - 多功能、轻量化、高性能的开源 macOS 屏幕录制工具
+* [screenity](https://github.com/alyssaxuu/screenity) ⭐ 18,488 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-18 - 一款开源的屏幕录制和标注工具，提供隐私保护且无任何使用限制
+* [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ⭐ 8,592 | 🐛 176 | 🌐 Swift | 📅 2025-06-11 - 多功能、轻量化、高性能的开源 macOS 屏幕录制工具
 * [OBS Studio](https://obsproject.com/) - 开源工具，跨平台：windows、mac、linux
 * [focusee](https://gemoo.com/focusee/) - 一个一站式平台，简化了视频的创建、编辑和分享流程，让每个人都能在几分钟内制作视频并传播自己的创意
 
@@ -353,8 +353,8 @@
 
 ### 信息渠道
 
-* [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) ⭐ 60,856 | 🐛 3 | 🌐 Python | 📅 2026-08-19 - 中国独立开发者项目列表
-* [中国独立开发者项目列表-程序员版](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) ⭐ 60,856 | 🐛 3 | 🌐 Python | 📅 2026-08-19 - 中国独立开发者项目列表
+* [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) ⭐ 60,872 | 🐛 1 | 🌐 Python | 📅 2026-08-20 - 中国独立开发者项目列表
+* [中国独立开发者项目列表-程序员版](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) ⭐ 60,872 | 🐛 1 | 🌐 Python | 📅 2026-08-20 - 中国独立开发者项目列表
 * [信息差](https://gapis.money/) - 经常更新的独立开发者出海周刊
 * [Product Hunt](https://www.producthunt.com/) - 新产品榜单聚集地
 * [W2Solo](https://w2solo.com/) - 中文独立开发者社区
@@ -418,8 +418,8 @@
 
 ### AI 资源
 
-* [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) ⭐ 2,322 | 🐛 20 | 🌐 Go | 📅 2026-08-03 - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
-* [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) ⭐ 932 | 🐛 215 | 🌐 Python | 📅 2026-08-19 - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
+* [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) ⭐ 2,324 | 🐛 20 | 🌐 Go | 📅 2026-08-03 - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
+* [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) ⭐ 937 | 🐛 218 | 🌐 Python | 📅 2026-08-20 - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 
 ### 其他工具
 
@@ -496,4 +496,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
