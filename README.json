@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T18:26:22Z",
                 "owner": "umami-software",
                 "repo": "umami",
-                "stars": 38338
+                "stars": 38342
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15603
+                "stars": 15610
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 410480975,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T05:35:54Z",
+                "last_commit": "2026-08-24T08:58:05Z",
                 "owner": "notionnext-org",
                 "repo": "NotionNext",
-                "stars": 11773
+                "stars": 11774
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 306484159,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T11:55:31Z",
+                "last_commit": "2026-08-24T10:16:00Z",
                 "owner": "extension-js",
                 "repo": "extension.js",
                 "stars": 5069
@@ -189,7 +189,7 @@
                 "last_commit": "2026-03-03T12:41:03Z",
                 "owner": "antfu-collective",
                 "repo": "vitesse-webext",
-                "stars": 3377
+                "stars": 3378
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-20T20:40:54Z",
                 "owner": "caronc",
                 "repo": "apprise",
-                "stars": 17163
+                "stars": 17164
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-20T07:29:20Z",
                 "owner": "Pagefind",
                 "repo": "pagefind",
-                "stars": 5424
+                "stars": 5425
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-08-22T06:29:05Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3395
+                "stars": 3397
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-13T05:32:01Z",
                 "owner": "SSShooter",
                 "repo": "mind-elixir-core",
-                "stars": 3144
+                "stars": 3145
               }
             }
           ],
@@ -290,10 +290,10 @@
                 "archived": false,
                 "id": 214587193,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:01:36Z",
+                "last_commit": "2026-08-24T13:51:59Z",
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108333
+                "stars": 108346
               }
             },
             {
@@ -305,10 +305,10 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:45:08Z",
+                "last_commit": "2026-08-24T14:04:32Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57107
+                "stars": 57113
               }
             },
             {
@@ -335,6 +335,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TypeORM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52773157,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T06:47:32Z",
+                "owner": "typeorm",
+                "repo": "typeorm",
+                "stars": 36632
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "对象关系映射"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "canvas-confetti",
               "description": "只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。",
               "children": [],
@@ -345,7 +367,7 @@
                 "last_commit": "2025-10-25T05:17:21Z",
                 "owner": "catdad",
                 "repo": "canvas-confetti",
-                "stars": 12708
+                "stars": 12709
               }
             },
             {
@@ -360,7 +382,7 @@
                 "last_commit": "2026-07-18T20:09:36Z",
                 "owner": "barvian",
                 "repo": "number-flow",
-                "stars": 7645
+                "stars": 7646
               }
             }
           ],
@@ -379,10 +401,10 @@
                 "archived": false,
                 "id": 48769241,
                 "language": "Clojure",
-                "last_commit": "2026-08-24T06:52:47Z",
+                "last_commit": "2026-08-24T13:57:01Z",
                 "owner": "penpot",
                 "repo": "penpot",
-                "stars": 59089
+                "stars": 59113
               }
             },
             {
@@ -409,6 +431,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "NextAuth",
+              "description": "用户系统, 网络身份验证",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119162419,
+                "language": "TypeScript",
+                "last_commit": "2026-07-22T19:42:19Z",
+                "owner": "nextauthjs",
+                "repo": "next-auth",
+                "stars": 28341
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "认证与授权"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Nodemailer",
               "description": "Node.js 的邮件发送库",
               "children": [],
@@ -419,7 +463,7 @@
                 "last_commit": "2026-08-12T07:26:04Z",
                 "owner": "nodemailer",
                 "repo": "nodemailer",
-                "stars": 17657
+                "stars": 17658
               }
             },
             {
@@ -441,6 +485,28 @@
           "description": null,
           "node_type": "group",
           "title": "邮件服务"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "netdata",
+              "description": "实时监控服务器、容器和应用程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10744183,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:50:26Z",
+                "owner": "netdata",
+                "repo": "netdata",
+                "stars": 80275
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "网站分析"
         },
         {
           "children": [
@@ -468,7 +534,7 @@
                 "archived": false,
                 "id": 374763231,
                 "language": "Go",
-                "last_commit": "2026-08-23T19:04:56Z",
+                "last_commit": "2026-08-24T09:34:03Z",
                 "owner": "inngest",
                 "repo": "inngest",
                 "stars": 5760
@@ -493,7 +559,7 @@
                 "last_commit": "2026-08-22T02:15:53Z",
                 "owner": "acmesh-official",
                 "repo": "acme.sh",
-                "stars": 47524
+                "stars": 47529
               }
             },
             {
@@ -565,6 +631,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Docusaurus",
+              "description": "易于维护的开源文档网站",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94911145,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T20:09:53Z",
+                "owner": "facebook",
+                "repo": "docusaurus",
+                "stars": 66068
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "文档管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Upscayl Upscayl",
               "description": "免费开源 AI 图像放大器",
               "children": [],
@@ -575,7 +663,7 @@
                 "last_commit": "2026-08-20T01:28:53Z",
                 "owner": "upscayl",
                 "repo": "upscayl",
-                "stars": 48724
+                "stars": 48733
               }
             },
             {
@@ -590,7 +678,7 @@
                 "last_commit": "2026-08-23T19:49:33Z",
                 "owner": "mediago-dev",
                 "repo": "mediago",
-                "stars": 9134
+                "stars": 9150
               }
             }
           ],
@@ -612,7 +700,7 @@
                 "last_commit": "2026-08-18T17:39:05Z",
                 "owner": "alyssaxuu",
                 "repo": "screenity",
-                "stars": 18502
+                "stars": 18503
               }
             },
             {
@@ -627,7 +715,7 @@
                 "last_commit": "2025-06-11T07:47:27Z",
                 "owner": "lihaoyun6",
                 "repo": "QuickRecorder",
-                "stars": 8597
+                "stars": 8598
               }
             }
           ],
@@ -649,7 +737,7 @@
                 "last_commit": "2026-08-24T05:03:57Z",
                 "owner": "1c7",
                 "repo": "chinese-independent-developer",
-                "stars": 60944
+                "stars": 60952
               }
             },
             {
@@ -664,7 +752,7 @@
                 "last_commit": "2026-08-24T05:03:57Z",
                 "owner": "1c7",
                 "repo": "chinese-independent-developer",
-                "stars": 60944
+                "stars": 60952
               }
             }
           ],
@@ -686,7 +774,7 @@
                 "last_commit": "2026-05-07T03:01:58Z",
                 "owner": "Gingiris",
                 "repo": "gingiris-opensource",
-                "stars": 249
+                "stars": 250
               }
             },
             {
@@ -765,10 +853,10 @@
                 "archived": false,
                 "id": 1188762020,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:07:04Z",
+                "last_commit": "2026-08-24T14:06:53Z",
                 "owner": "sipyourdrink-ltd",
                 "repo": "bernstein",
-                "stars": 971
+                "stars": 974
               }
             }
           ],
@@ -781,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:07:24.605Z",
+    "last_updated": "2026-08-24T14:10:15.563Z",
     "original_repository": "yaolifeng0629/Awesome-independent-tools",
     "original_repository_id": 855246022,
     "original_repository_sha": "d5ab09ccbc44f30f2dec88c92a03a5ad6fe7c7e7",
