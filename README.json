@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T00:03:00Z",
                 "owner": "umami-software",
                 "repo": "umami",
-                "stars": 38347
+                "stars": 38349
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-04-20T12:01:38Z",
                 "owner": "shadcn-ui",
                 "repo": "taxonomy",
-                "stars": 19285
+                "stars": 19286
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15618
+                "stars": 15620
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-08-25T04:59:51Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3400
+                "stars": 3401
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-13T05:32:01Z",
                 "owner": "SSShooter",
                 "repo": "mind-elixir-core",
-                "stars": 3145
+                "stars": 3146
               }
             }
           ],
@@ -290,10 +290,10 @@
                 "archived": false,
                 "id": 214587193,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:44:56Z",
+                "last_commit": "2026-08-25T07:57:37Z",
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108368
+                "stars": 108372
               }
             },
             {
@@ -305,7 +305,7 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:55:06Z",
+                "last_commit": "2026-08-25T07:58:17Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
                 "stars": 57114
@@ -401,10 +401,10 @@
                 "archived": false,
                 "id": 48769241,
                 "language": "Clojure",
-                "last_commit": "2026-08-24T20:08:34Z",
+                "last_commit": "2026-08-25T07:59:56Z",
                 "owner": "penpot",
                 "repo": "penpot",
-                "stars": 59146
+                "stars": 59150
               }
             },
             {
@@ -497,10 +497,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:41:22Z",
+                "last_commit": "2026-08-25T07:33:29Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80285
+                "stars": 80286
               }
             }
           ],
@@ -559,7 +559,7 @@
                 "last_commit": "2026-08-22T02:15:53Z",
                 "owner": "acmesh-official",
                 "repo": "acme.sh",
-                "stars": 47534
+                "stars": 47535
               }
             },
             {
@@ -641,7 +641,7 @@
                 "last_commit": "2026-08-24T17:05:45Z",
                 "owner": "facebook",
                 "repo": "docusaurus",
-                "stars": 66070
+                "stars": 66072
               }
             }
           ],
@@ -675,10 +675,10 @@
                 "archived": false,
                 "id": 334485392,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T19:49:33Z",
+                "last_commit": "2026-08-25T07:15:03Z",
                 "owner": "mediago-dev",
                 "repo": "mediago",
-                "stars": 9180
+                "stars": 9181
               }
             }
           ],
@@ -715,7 +715,7 @@
                 "last_commit": "2025-06-11T07:47:27Z",
                 "owner": "lihaoyun6",
                 "repo": "QuickRecorder",
-                "stars": 8601
+                "stars": 8600
               }
             }
           ],
@@ -737,7 +737,7 @@
                 "last_commit": "2026-08-25T03:18:38Z",
                 "owner": "1c7",
                 "repo": "chinese-independent-developer",
-                "stars": 60963
+                "stars": 60968
               }
             },
             {
@@ -752,7 +752,7 @@
                 "last_commit": "2026-08-25T03:18:38Z",
                 "owner": "1c7",
                 "repo": "chinese-independent-developer",
-                "stars": 60963
+                "stars": 60968
               }
             }
           ],
@@ -853,10 +853,10 @@
                 "archived": false,
                 "id": 1188762020,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:52:10Z",
+                "last_commit": "2026-08-25T07:56:29Z",
                 "owner": "sipyourdrink-ltd",
                 "repo": "bernstein",
-                "stars": 981
+                "stars": 984
               }
             }
           ],
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:04.428Z",
+    "last_updated": "2026-08-25T08:02:05.955Z",
     "original_repository": "yaolifeng0629/Awesome-independent-tools",
     "original_repository_id": 855246022,
     "original_repository_sha": "d5ab09ccbc44f30f2dec88c92a03a5ad6fe7c7e7",
