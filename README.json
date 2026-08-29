@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
+                "homepage": "https://umami.is",
                 "id": 280363952,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:17:29Z",
+                "open_issues": 114,
                 "owner": "umami-software",
                 "repo": "umami",
-                "stars": 38423
+                "stars": 38425,
+                "topics": [
+                  "analytics",
+                  "audience-segmentation",
+                  "charts",
+                  "cohort-analysis",
+                  "google-analytics",
+                  "product-analytics",
+                  "statistics",
+                  "user-journey",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -28,12 +43,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+                "homepage": null,
                 "id": 553759919,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-20T12:01:38Z",
+                "open_issues": 218,
                 "owner": "shadcn-ui",
                 "repo": "taxonomy",
-                "stars": 19289
+                "stars": 19289,
+                "topics": [
+                  "nextauthjs",
+                  "nextjs",
+                  "prisma",
+                  "radix-ui",
+                  "tailwindcss",
+                  "typescript",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -44,12 +72,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+                "homepage": "https://opensaas.sh",
                 "id": 726082384,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2026-08-06T11:28:44Z",
+                "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15654
+                "stars": 15660,
+                "topics": [
+                  "ai",
+                  "authentication",
+                  "aws-s3",
+                  "boilerplate",
+                  "chatgpt",
+                  "full-stack",
+                  "google-auth",
+                  "hacktoberfest",
+                  "nodejs",
+                  "open-source",
+                  "openai-api",
+                  "postgresql",
+                  "prisma",
+                  "react",
+                  "saas",
+                  "saas-boilerplate",
+                  "saas-starter",
+                  "saas-template",
+                  "typesafe",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -60,12 +114,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.",
+                "homepage": "https://notionnext.tangly1024.com",
                 "id": 410480975,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T03:45:31Z",
+                "open_issues": 34,
                 "owner": "notionnext-org",
                 "repo": "NotionNext",
-                "stars": 11782
+                "stars": 11782,
+                "topics": [
+                  "blog",
+                  "nextjs",
+                  "notion",
+                  "react",
+                  "tailwindcss",
+                  "vercel",
+                  "zeabur"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -76,12 +143,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端",
+                "homepage": "https://100px.net",
                 "id": 191120006,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T07:38:48Z",
+                "open_issues": 193,
                 "owner": "buuing",
                 "repo": "lucky-canvas",
-                "stars": 8753
+                "stars": 8753,
+                "topics": [
+                  "canvas",
+                  "javascript",
+                  "lucky-draw",
+                  "react",
+                  "taro",
+                  "uni-app",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -92,12 +172,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用",
+                "homepage": "https://jin-yufeng.github.io/mp-html",
                 "id": 181125174,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-19T11:18:49Z",
+                "open_issues": 68,
                 "owner": "jin-yufeng",
                 "repo": "mp-html",
-                "stars": 3737
+                "stars": 3737,
+                "topics": [
+                  "editor",
+                  "html",
+                  "miniprogram",
+                  "rich-text",
+                  "uni-app",
+                  "wx"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -108,12 +200,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。",
+                "homepage": "https://codercup.github.io/unibest-docs/",
                 "id": 734947631,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-28T01:33:24Z",
+                "open_issues": 93,
                 "owner": "codercup",
                 "repo": "unibest",
-                "stars": 2858
+                "stars": 2858,
+                "topics": [
+                  "template",
+                  "uni-app",
+                  "uniapp",
+                  "vite",
+                  "vue3"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -124,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate the Excel formulas you need in seconds using ChatGPT.",
+                "homepage": "https://smartexcel.cc",
                 "id": 733974330,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-05T15:22:08Z",
+                "open_issues": 8,
                 "owner": "weijunext",
                 "repo": "smart-excel-ai",
-                "stars": 1651
+                "stars": 1651,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -147,12 +255,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The cross-browser extension framework.",
+                "homepage": "https://extension.js.org",
                 "id": 306484159,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:58:23Z",
+                "open_issues": 7,
                 "owner": "extension-js",
                 "repo": "extension.js",
-                "stars": 5069
+                "stars": 5070,
+                "topics": [
+                  "browser-extension",
+                  "chrome-extension",
+                  "cli",
+                  "content-script",
+                  "cross-browser",
+                  "edge-extension",
+                  "extension-js",
+                  "firefox-extension",
+                  "manifest-v3",
+                  "playwright",
+                  "preact",
+                  "react",
+                  "safari-web-extension",
+                  "scaffold",
+                  "starter-template",
+                  "svelte",
+                  "typescript",
+                  "vue",
+                  "webextension",
+                  "zero-config"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -163,12 +297,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Chrome Extension Boilerplate with React + Vite + Typescript",
+                "homepage": "https://deepwiki.com/Jonghakseo/chrome-extension-boilerplate-react-vite",
                 "id": 479995878,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-27T06:42:26Z",
+                "open_issues": 37,
                 "owner": "Jonghakseo",
                 "repo": "chrome-extension-boilerplate-react-vite",
-                "stars": 4910
+                "stars": 4909,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -179,12 +318,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build cross-browser extensions with native HMR and zero-config setup",
+                "homepage": "https://crxjs.dev",
                 "id": 175832658,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-26T19:50:20Z",
+                "open_issues": 36,
                 "owner": "crxjs",
                 "repo": "chrome-extension-tools",
-                "stars": 4159
+                "stars": 4161,
+                "topics": [
+                  "chrome-extension",
+                  "javascript",
+                  "manifest-v2",
+                  "manifest-v3",
+                  "npm-package",
+                  "rollup",
+                  "rollup-js",
+                  "rollup-plugin",
+                  "typescript",
+                  "vite-plugin",
+                  "vitejs"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -195,12 +351,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ WebExtension Vite Starter Template",
+                "homepage": null,
                 "id": 388693827,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-03T12:41:03Z",
+                "open_issues": 26,
                 "owner": "antfu-collective",
                 "repo": "vitesse-webext",
-                "stars": 3379
+                "stars": 3379,
+                "topics": [
+                  "vite",
+                  "vue3",
+                  "webextension"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -211,12 +376,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome Extension TypeScript Starter",
+                "homepage": null,
                 "id": 74578054,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T19:39:55Z",
+                "open_issues": 10,
                 "owner": "chibat",
                 "repo": "chrome-extension-typescript-starter",
-                "stars": 2823
+                "stars": 2823,
+                "topics": [
+                  "boilerplate",
+                  "chrome-extension",
+                  "react",
+                  "starter",
+                  "template",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -234,12 +411,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apprise - Push Notifications that work with just about every platform!",
+                "homepage": "https://hub.docker.com/r/caronc/apprise",
                 "id": 112024290,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:08:14Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-29T03:57:03Z",
+                "open_issues": 31,
                 "owner": "caronc",
                 "repo": "apprise",
-                "stars": 17204
+                "stars": 17206,
+                "topics": [
+                  "alerts",
+                  "apprise",
+                  "framework",
+                  "notification-api",
+                  "notification-hub",
+                  "notification-service",
+                  "notifications",
+                  "notifier",
+                  "notify",
+                  "push-notifications",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -250,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static low-bandwidth search at scale",
+                "homepage": "https://pagefind.app",
                 "id": 488052542,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-26T23:59:02Z",
+                "open_issues": 114,
                 "owner": "Pagefind",
                 "repo": "pagefind",
-                "stars": 5428
+                "stars": 5428,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -266,12 +465,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+                "homepage": "https://notfair.co/",
                 "id": 1193374549,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T00:18:45Z",
+                "open_issues": 12,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3425
+                "stars": 3427,
+                "topics": [
+                  "agents",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "gemini-cli-extension",
+                  "geo",
+                  "googleads",
+                  "googleadsmcp",
+                  "mcp",
+                  "metaads",
+                  "seo"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -282,12 +497,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.",
+                "homepage": "https://docs.mind-elixir.com/",
                 "id": 199951138,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:39:23Z",
+                "open_issues": 11,
                 "owner": "SSShooter",
                 "repo": "mind-elixir-core",
-                "stars": 3151
+                "stars": 3151,
+                "topics": [
+                  "graph",
+                  "mind-map",
+                  "mind-mapping",
+                  "mindmap",
+                  "tool",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -305,12 +532,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+                "homepage": "https://supabase.com",
                 "id": 214587193,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T19:08:45Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:23:40Z",
+                "open_issues": 1059,
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108533
+                "stars": 108544,
+                "topics": [
+                  "ai",
+                  "alternative",
+                  "auth",
+                  "database",
+                  "deno",
+                  "embeddings",
+                  "example",
+                  "firebase",
+                  "nextjs",
+                  "oauth2",
+                  "pgvector",
+                  "postgis",
+                  "postgres",
+                  "postgresql",
+                  "postgrest",
+                  "realtime",
+                  "supabase",
+                  "vectors",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -321,12 +573,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+                "homepage": "https://appwrite.io",
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T19:05:04Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T03:39:00Z",
+                "open_issues": 1027,
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57155
+                "stars": 57154,
+                "topics": [
+                  "android",
+                  "appwrite",
+                  "backend",
+                  "backend-as-a-service",
+                  "docker",
+                  "firebase",
+                  "flutter",
+                  "hosting",
+                  "ios",
+                  "javascript",
+                  "nextjs",
+                  "react",
+                  "react-native",
+                  "reactnative",
+                  "self-hosted",
+                  "selfhosted",
+                  "serverless",
+                  "supabase",
+                  "swift",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -337,12 +615,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dead simple Go library for sending notifications to various messaging services.",
+                "homepage": null,
                 "id": 332576508,
                 "language": "Go",
-                "last_commit": "2026-08-28T13:42:12Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:04:27Z",
+                "open_issues": 50,
                 "owner": "nikoksr",
                 "repo": "notify",
-                "stars": 3761
+                "stars": 3761,
+                "topics": [
+                  "aws-ses",
+                  "bot",
+                  "discord",
+                  "email",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "messaging",
+                  "microsoft-teams",
+                  "notification",
+                  "notify",
+                  "pushbullet",
+                  "rocketchat",
+                  "sendgrid",
+                  "slack",
+                  "telegram",
+                  "twilio",
+                  "twitter",
+                  "wechat",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -360,12 +664,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.",
+                "homepage": "http://typeorm.io",
                 "id": 52773157,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T10:20:30Z",
+                "open_issues": 617,
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36635
+                "stars": 36634,
+                "topics": [
+                  "active-record",
+                  "cockroachdb",
+                  "data-mapper",
+                  "database",
+                  "hacktoberfest",
+                  "javascript",
+                  "mariadb",
+                  "mysql",
+                  "orm",
+                  "postgresql",
+                  "sqlite",
+                  "sqlserver",
+                  "typeorm",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -383,12 +707,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉 performant confetti animation in the browser",
+                "homepage": "https://catdad.github.io/canvas-confetti/",
                 "id": 119001901,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2025-10-25T05:17:21Z",
+                "open_issues": 41,
                 "owner": "catdad",
                 "repo": "canvas-confetti",
-                "stars": 12717
+                "stars": 12717,
+                "topics": [
+                  "animation",
+                  "burst",
+                  "canvas",
+                  "canvas-confetti",
+                  "confetti",
+                  "fireworks",
+                  "hacktoberfest",
+                  "jsdelivr",
+                  "particles",
+                  "snow"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -399,12 +739,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An animated number component for React, Vue, Svelte, and TS/JS.",
+                "homepage": "https://number-flow.barvian.me",
                 "id": 829159509,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-18T20:09:36Z",
+                "open_issues": 19,
                 "owner": "barvian",
                 "repo": "number-flow",
-                "stars": 7656
+                "stars": 7656,
+                "topics": [
+                  "accessible",
+                  "animation",
+                  "odometer",
+                  "react",
+                  "svelte",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -422,12 +774,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+                "homepage": "https://penpot.app",
                 "id": 48769241,
                 "language": "Clojure",
-                "last_commit": "2026-08-28T19:20:32Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-28T21:21:22Z",
+                "open_issues": 794,
                 "owner": "penpot",
                 "repo": "penpot",
-                "stars": 59309
+                "stars": 59331,
+                "topics": [
+                  "clojure",
+                  "clojurescript",
+                  "design",
+                  "prototyping",
+                  "ui",
+                  "ux-design",
+                  "ux-experience"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -438,12 +803,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+                "homepage": "https://openui.fly.dev",
                 "id": 773544702,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:06:50Z",
+                "open_issues": 89,
                 "owner": "wandb",
                 "repo": "openui",
-                "stars": 22521
+                "stars": 22521,
+                "topics": [
+                  "ai",
+                  "generative-ai",
+                  "html-css-javascript",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -461,12 +836,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication for the Web.",
+                "homepage": "https://authjs.dev",
                 "id": 119162419,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2026-07-22T19:42:19Z",
+                "open_issues": 598,
                 "owner": "nextauthjs",
                 "repo": "next-auth",
-                "stars": 28349
+                "stars": 28350,
+                "topics": [
+                  "auth",
+                  "authentication",
+                  "csrf",
+                  "jwt",
+                  "nextauth",
+                  "nextjs",
+                  "nodejs",
+                  "nuxt",
+                  "nuxt-auth",
+                  "oauth",
+                  "oauth2",
+                  "oidc",
+                  "react",
+                  "remix-auth",
+                  "solid-auth",
+                  "solidjs",
+                  "sveltekit",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -484,12 +883,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✉️ Send e-mails with Node.JS – easy as cake!",
+                "homepage": "http://nodemailer.com/",
                 "id": 1272424,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:45:59Z",
+                "open_issues": 2,
                 "owner": "nodemailer",
                 "repo": "nodemailer",
-                "stars": 17663
+                "stars": 17662,
+                "topics": [
+                  "email",
+                  "email-sender",
+                  "nodemailer",
+                  "rfc822"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -500,12 +909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rock-solid transactional email templates for applications.",
+                "homepage": "https://postmarkapp.com/transactional-email-templates",
                 "id": 40009560,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-04-02T06:24:38Z",
+                "open_issues": 13,
                 "owner": "ActiveCampaign",
                 "repo": "postmark-templates",
-                "stars": 3195
+                "stars": 3195,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -523,12 +937,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+                "homepage": "https://www.netdata.cloud",
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-28T11:23:48Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T00:21:19Z",
+                "open_issues": 387,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80337
+                "stars": 80342,
+                "topics": [
+                  "ai",
+                  "alerting",
+                  "cncf",
+                  "data-visualization",
+                  "database",
+                  "devops",
+                  "docker",
+                  "grafana",
+                  "influxdb",
+                  "kubernetes",
+                  "linux",
+                  "machine-learning",
+                  "mcp",
+                  "mongodb",
+                  "monitoring",
+                  "mysql",
+                  "netdata",
+                  "observability",
+                  "postgresql",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -546,12 +986,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+                "homepage": "https://Sink.Cool",
                 "id": 796284842,
                 "language": "Vue",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T11:45:00Z",
+                "open_issues": 16,
                 "owner": "miantiao-me",
                 "repo": "Sink",
-                "stars": 7062
+                "stars": 7062,
+                "topics": [
+                  "analytics",
+                  "bitly-alternative",
+                  "cloudflare",
+                  "hacktoberfest",
+                  "link-shortener",
+                  "nuxt",
+                  "nuxthub",
+                  "shadcn-ui",
+                  "tailwindcss",
+                  "url-shortener",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -562,12 +1019,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+                "homepage": "https://www.inngest.com/docs",
                 "id": 374763231,
                 "language": "Go",
-                "last_commit": "2026-08-28T18:45:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:07:43Z",
+                "open_issues": 229,
                 "owner": "inngest",
                 "repo": "inngest",
-                "stars": 5772
+                "stars": 5774,
+                "topics": [
+                  "cli",
+                  "event-driven",
+                  "event-driven-architecture",
+                  "queues",
+                  "serverless",
+                  "serverless-functions",
+                  "workflow-engine",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -585,12 +1056,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+                "homepage": "https://acme.sh",
                 "id": 48610662,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T02:15:53Z",
+                "open_issues": 105,
                 "owner": "acmesh-official",
                 "repo": "acme.sh",
-                "stars": 47551
+                "stars": 47552,
+                "topics": [
+                  "acme",
+                  "acme-challenge",
+                  "acme-protocol",
+                  "acme-v2",
+                  "ash",
+                  "bash",
+                  "buypass",
+                  "certbot",
+                  "lets-encrypt",
+                  "posix",
+                  "posix-sh",
+                  "shell",
+                  "ssl",
+                  "ssl-certificate",
+                  "ssl-certificates",
+                  "tls",
+                  "tls-certificate",
+                  "zerossl"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -601,12 +1096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site",
+                "homepage": "https://uptime.zrfme.com",
                 "id": 860783118,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-26T12:50:17Z",
+                "open_issues": 0,
                 "owner": "shaoyouvip",
                 "repo": "uptime",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -617,12 +1117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
+                "homepage": "https://docs.certimate.me",
                 "id": 1006320584,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-22T02:34:20Z",
+                "open_issues": 0,
                 "owner": "usual2970",
                 "repo": "certimate",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -633,12 +1138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SSL Certificate Expiry Monitor - Monitor SSL certificates and get alerts before they expire",
+                "homepage": null,
                 "id": 1160656833,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-18T16:53:51Z",
+                "open_issues": 0,
                 "owner": "brancogao",
                 "repo": "ssl-certificate-monitor",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -649,12 +1159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP Redirect Chain Analyzer - API-first tool for developers to check where URLs really go",
+                "homepage": "https://redirect-checker.autocompany.workers.dev",
                 "id": 1160423566,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-17T23:58:00Z",
+                "open_issues": 0,
                 "owner": "brancogao",
                 "repo": "redirect-checker",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -672,12 +1187,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to maintain open source documentation websites.",
+                "homepage": "https://docusaurus.io",
                 "id": 94911145,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:50:37Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:35:46Z",
+                "open_issues": 397,
                 "owner": "facebook",
                 "repo": "docusaurus",
-                "stars": 66119
+                "stars": 66119,
+                "topics": [
+                  "documentation",
+                  "hacktoberfest",
+                  "javascript",
+                  "open-source",
+                  "react",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -695,12 +1222,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+                "homepage": "https://upscayl.org",
                 "id": 519577891,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T01:28:53Z",
+                "open_issues": 53,
                 "owner": "upscayl",
                 "repo": "upscayl",
-                "stars": 48805
+                "stars": 48810,
+                "topics": [
+                  "ai",
+                  "electron",
+                  "esrgan",
+                  "gigapixel",
+                  "gigapixel-images",
+                  "image",
+                  "image-upscaling",
+                  "topaz",
+                  "upscale",
+                  "upscalerimage",
+                  "upscayl"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -711,12 +1255,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.",
+                "homepage": "https://downloader.caorushizi.cn/guides.html?form=github",
                 "id": 334485392,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:50:26Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:04:18Z",
+                "open_issues": 70,
                 "owner": "mediago-dev",
                 "repo": "mediago",
-                "stars": 9192
+                "stars": 9192,
+                "topics": [
+                  "bilibili",
+                  "downloader",
+                  "electron",
+                  "hls",
+                  "m3u8",
+                  "m3u8-downloader",
+                  "m3u8download",
+                  "video",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -734,12 +1293,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+                "homepage": "https://screenity.io",
                 "id": 309123651,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-18T17:39:05Z",
+                "open_issues": 8,
                 "owner": "alyssaxuu",
                 "repo": "screenity",
-                "stars": 18511
+                "stars": 18512,
+                "topics": [
+                  "annotation",
+                  "annotation-tool",
+                  "audio",
+                  "camera",
+                  "chrome-extension",
+                  "design",
+                  "editor",
+                  "ffmpeg",
+                  "javascript",
+                  "productivity",
+                  "recorder",
+                  "screen-capture",
+                  "screen-recorder",
+                  "screencast",
+                  "tensorflow",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -750,12 +1331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
+                "homepage": "https://lihaoyun6.github.io/quickrecorder/",
                 "id": 789761983,
                 "language": "Swift",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-06-11T07:47:27Z",
+                "open_issues": 176,
                 "owner": "lihaoyun6",
                 "repo": "QuickRecorder",
-                "stars": 8616
+                "stars": 8617,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -773,12 +1359,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+                "homepage": null,
                 "id": 104337773,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-28T10:32:36Z",
+                "open_issues": 2,
                 "owner": "1c7",
                 "repo": "chinese-independent-developer",
-                "stars": 61083
+                "stars": 61091,
+                "topics": [
+                  "china",
+                  "indie",
+                  "indie-developer"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -789,12 +1384,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+                "homepage": null,
                 "id": 104337773,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-28T10:32:36Z",
+                "open_issues": 2,
                 "owner": "1c7",
                 "repo": "chinese-independent-developer",
-                "stars": 61083
+                "stars": 61091,
+                "topics": [
+                  "china",
+                  "indie",
+                  "indie-developer"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -812,12 +1416,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⭐ Open Source Marketing Playbook — How to get 10k+ GitHub stars. Complete OSS launch strategy from AFFiNE (60k stars in 24 months). GitHub trending, HackerNews launch, Reddit r/programming, developer community, awesome-lists, contributor acquisition.",
+                "homepage": "https://skills.sh/Gingiris/gingiris-opensource",
                 "id": 1173554424,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-07T03:01:58Z",
+                "open_issues": 1,
                 "owner": "Gingiris",
                 "repo": "gingiris-opensource",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "community",
+                  "developer-community",
+                  "developer-marketing",
+                  "devrel",
+                  "github",
+                  "github-stars",
+                  "github-stars-growth",
+                  "github-trending",
+                  "growth-hacking",
+                  "hackernews",
+                  "hacktoberfest",
+                  "how-to-get-github-stars",
+                  "marketing",
+                  "open-source",
+                  "open-source-marketing",
+                  "opensource-marketing",
+                  "oss-marketing",
+                  "startup"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -828,12 +1458,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. Complete go-to-market guide for AI products, startups & open source. Real case studies: Manus, Devin, AFFiNE.",
+                "homepage": "https://skills.sh/Gingiris/gingiris-launch",
                 "id": 1173376661,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-07T03:01:55Z",
+                "open_issues": 2,
                 "owner": "Gingiris",
                 "repo": "gingiris-launch",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "ai-launch",
+                  "ai-tools",
+                  "awesome",
+                  "go-to-market",
+                  "growth-hacking",
+                  "how-to-launch-on-product-hunt",
+                  "indie-hacker",
+                  "kol-marketing",
+                  "launch-strategy",
+                  "marketing",
+                  "product-hunt",
+                  "product-hunt-guide",
+                  "product-hunt-launch",
+                  "reddit-marketing",
+                  "saas",
+                  "startup",
+                  "startup-launch",
+                  "startup-launch-checklist",
+                  "ugc",
+                  "viral-marketing"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -844,12 +1500,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📈 B2B SaaS Growth Playbook — PLG & SLG strategies from PMF to $10M ARR. Real case studies: HeyGen, Deel, Vercel, Supabase. Affiliate programs, channel partnerships, enterprise sales.",
+                "homepage": "https://skills.sh/Gingiris/gingiris-b2b-growth",
                 "id": 1173399466,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-07T03:02:01Z",
+                "open_issues": 2,
                 "owner": "Gingiris",
                 "repo": "gingiris-b2b-growth",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "affiliate-marketing",
+                  "awesome",
+                  "b2b-marketing",
+                  "b2b-saas",
+                  "b2b-saas-growth",
+                  "customer-success",
+                  "enterprise-sales",
+                  "growth",
+                  "marketing",
+                  "plg",
+                  "product-led-growth",
+                  "revenue",
+                  "saas",
+                  "saas-go-to-market",
+                  "saas-growth",
+                  "saas-growth-strategy",
+                  "saas-marketing",
+                  "sales",
+                  "startup",
+                  "startup-growth"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -860,12 +1542,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 ASO & Mobile App Growth Playbook — Complete App Store Optimization guide. Cold start strategies, UGC creator operations, TikTok/Instagram/YouTube Shorts marketing.",
+                "homepage": "https://skills.sh/Gingiris/gingiris-aso-growth",
                 "id": 1175031958,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-07T03:02:03Z",
+                "open_issues": 1,
                 "owner": "Gingiris",
                 "repo": "gingiris-aso-growth",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "android-app",
+                  "app-cold-start",
+                  "app-launch",
+                  "app-marketing",
+                  "app-store-optimization",
+                  "aso",
+                  "aso-keywords",
+                  "claude-skill",
+                  "cold-start",
+                  "creator-marketing",
+                  "gingiris",
+                  "instagram-reels",
+                  "ios-app",
+                  "mobile-app",
+                  "mobile-growth",
+                  "mobile-marketing",
+                  "tiktok-marketing",
+                  "ugc",
+                  "user-acquisition",
+                  "youtube-shorts"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -883,12 +1591,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console.",
+                "homepage": "https://agentsmesh.ai",
                 "id": 1169101061,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T11:45:02Z",
+                "open_issues": 20,
                 "owner": "AgentsMesh",
                 "repo": "AgentsMesh",
-                "stars": 2331
+                "stars": 2331,
+                "topics": [
+                  "agent-orchestration",
+                  "agentsmesh",
+                  "ai-agent",
+                  "ai-agent-workforce-platform",
+                  "ai-coding",
+                  "aider",
+                  "claude-code",
+                  "codex-cli",
+                  "gemini-cli",
+                  "multi-agent",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             },
@@ -899,12 +1624,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline. Cluster mode, air-gap deploy. Status: beta. https://bernstein.run",
+                "homepage": "https://bernstein.run",
                 "id": 1188762020,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:27:39Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:13:45Z",
+                "open_issues": 141,
                 "owner": "sipyourdrink-ltd",
                 "repo": "bernstein",
-                "stars": 1021
+                "stars": 1026,
+                "topics": [
+                  "agent-fleet",
+                  "agent-infrastructure",
+                  "agent-orchestrator",
+                  "agent-swarm",
+                  "ai-orchestration",
+                  "aider",
+                  "air-gap",
+                  "attestation",
+                  "audit-log",
+                  "audit-trail",
+                  "autonomous-coding",
+                  "deterministic-replay",
+                  "git-worktree",
+                  "git-worktrees",
+                  "llm-orchestration",
+                  "orchestrator",
+                  "parallel-agents",
+                  "provenance",
+                  "reproducibility",
+                  "tamper-evident"
+                ]
               },
               "first_seen": "2026-08-28T19:28:38.912Z"
             }
@@ -918,15 +1669,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:28:38.912Z",
+    "last_updated": "2026-08-29T04:22:24.994Z",
     "original_repository_info": {
       "archived": false,
+      "description": "收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）",
+      "homepage": "https://www.indietools.work",
       "id": 855246022,
       "language": null,
+      "license": "AGPL-3.0",
       "last_commit": "2026-07-04T09:40:16Z",
+      "open_issues": 66,
       "owner": "yaolifeng0629",
       "repo": "Awesome-independent-tools",
-      "stars": 2445
+      "stars": 2445,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-resources",
+        "dev",
+        "developer",
+        "developer-tools",
+        "development",
+        "independent",
+        "indiehacker",
+        "indiehackers",
+        "tools"
+      ]
     },
     "original_repository_sha": "d5ab09ccbc44f30f2dec88c92a03a5ad6fe7c7e7",
     "enhanced_repository": "enhansome/enhansome-Awesome-independent-tools",
